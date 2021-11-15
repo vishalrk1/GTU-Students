@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "188433136867",
+    "firebase_url": "https://gtu-student-1dc45-default-rtdb.firebaseio.com",
+    "project_id": "gtu-student-1dc45",
+    "storage_bucket": "gtu-student-1dc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188433136867:android:d67acf73226bbb0beb99d6",
+        "android_client_info": {
+          "package_name": "com.hemang833.GTU_Student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188433136867-r19l3d0ea02huo2iu0l7b13s342a2b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPA0xY8ghnLLlDe6snAGtPZCAPlKdflc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188433136867-r19l3d0ea02huo2iu0l7b13s342a2b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188433136867:android:2a582379cd949e3feb99d6",
+        "android_client_info": {
+          "package_name": "com.hemang833.gtu_students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188433136867-r19l3d0ea02huo2iu0l7b13s342a2b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPA0xY8ghnLLlDe6snAGtPZCAPlKdflc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188433136867-r19l3d0ea02huo2iu0l7b13s342a2b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
